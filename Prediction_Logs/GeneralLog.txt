@@ -1,0 +1,256 @@
+2022-03-28/08:22:04		bad files moved to arcive
+2022-03-28/08:22:04		Bad Raw Data Folder Deleted successfully!!
+2022-03-28/08:25:18		bad files moved to arcive
+2022-03-28/08:25:18		Bad Raw Data Folder Deleted successfully!!
+2022-03-28/08:28:20		bad files moved to arcive
+2022-03-28/08:28:20		Bad Raw Data Folder Deleted successfully!!
+2022-03-28/08:29:13		bad files moved to arcive
+2022-03-28/08:29:13		Bad Raw Data Folder Deleted successfully!!
+2022-03-28/08:30:31		bad files moved to arcive
+2022-03-28/08:30:31		Bad Raw Data Folder Deleted successfully!!
+2022-03-28/09:47:32		bad files moved to arcive
+2022-03-28/09:47:32		Bad Raw Data Folder Deleted successfully!!
+2022-03-28/12:20:54		bad files moved to arcive
+2022-03-28/12:20:54		Bad Raw Data Folder Deleted successfully!!
+2022-03-28/12:34:31		bad files moved to arcive
+2022-03-28/12:34:31		Bad Raw Data Folder Deleted successfully!!
+2022-03-28/12:40:35		bad files moved to arcive
+2022-03-28/12:40:35		Bad Raw Data Folder Deleted successfully!!
+2022-03-28/13:37:29		bad files moved to arcive
+2022-03-28/13:37:29		Bad Raw Data Folder Deleted successfully!!
+2022-03-28/13:39:19		bad files moved to arcive
+2022-03-28/13:39:19		Bad Raw Data Folder Deleted successfully!!
+2022-03-28/13:40:45		bad files moved to arcive
+2022-03-28/13:40:45		Bad Raw Data Folder Deleted successfully!!
+2022-03-28/13:42:04		bad files moved to arcive
+2022-03-28/13:42:04		Bad Raw Data Folder Deleted successfully!!
+2022-03-28/13:42:57		bad files moved to arcive
+2022-03-28/13:42:57		Bad Raw Data Folder Deleted successfully!!
+2022-03-28/13:44:01		bad files moved to arcive
+2022-03-28/13:44:01		Bad Raw Data Folder Deleted successfully!!
+2022-03-28/13:47:04		bad files moved to arcive
+2022-03-28/13:47:04		Bad Raw Data Folder Deleted successfully!!
+2022-03-28/13:47:18		bad files moved to arcive
+2022-03-28/13:47:18		Bad Raw Data Folder Deleted successfully!!
+2022-03-28/14:10:26		bad files moved to arcive
+2022-03-28/14:10:26		Bad Raw Data Folder Deleted successfully!!
+2022-03-28/14:13:45		bad files moved to arcive
+2022-03-28/14:13:45		Bad Raw Data Folder Deleted successfully!!
+2022-03-28/14:14:44		bad files moved to arcive
+2022-03-28/14:14:44		Bad Raw Data Folder Deleted successfully!!
+2022-03-28/14:16:29		bad files moved to arcive
+2022-03-28/14:16:29		Bad Raw Data Folder Deleted successfully!!
+2022-03-28/15:45:47		bad files moved to arcive
+2022-03-28/15:45:47		Bad Raw Data Folder Deleted successfully!!
+2022-03-28/15:50:06		bad files moved to arcive
+2022-03-28/15:50:06		Bad Raw Data Folder Deleted successfully!!
+2022-03-28/17:56:55		bad files moved to arcive
+2022-03-28/17:56:55		Bad Raw Data Folder Deleted successfully!!
+2022-03-29/07:39:53		bad files moved to arcive
+2022-03-29/07:39:53		Bad Raw Data Folder Deleted successfully!!
+2022-03-29/07:51:57		bad files moved to arcive
+2022-03-29/07:51:57		Bad Raw Data Folder Deleted successfully!!
+2022-03-29/08:27:48		bad files moved to arcive
+2022-03-29/08:27:48		Bad Raw Data Folder Deleted successfully!!
+2022-03-29/08:28:34		bad files moved to arcive
+2022-03-29/08:28:34		Bad Raw Data Folder Deleted successfully!!
+2022-03-29/08:29:34		bad files moved to arcive
+2022-03-29/08:29:34		Bad Raw Data Folder Deleted successfully!!
+2022-03-29/08:37:48		bad files moved to arcive
+2022-03-29/08:37:48		Bad Raw Data Folder Deleted successfully!!
+2022-03-29/08:44:27		bad files moved to arcive
+2022-03-29/08:44:27		Bad Raw Data Folder Deleted successfully!!
+2022-03-29/09:00:14		bad files moved to arcive
+2022-03-29/09:00:14		Bad Raw Data Folder Deleted successfully!!
+2022-03-29/09:24:49		bad files moved to arcive
+2022-03-29/09:24:49		Bad Raw Data Folder Deleted successfully!!
+2022-04-03/17:55:23		bad files moved to arcive
+2022-04-03/17:55:23		Bad Raw Data Folder Deleted successfully!!
+2022-04-03/18:07:28		bad files moved to arcive
+2022-04-03/18:07:28		Bad Raw Data Folder Deleted successfully!!
+2022-04-03/18:19:23		bad files moved to arcive
+2022-04-03/18:19:23		Bad Raw Data Folder Deleted successfully!!
+2022-05-03/10:54:30		bad files moved to arcive
+2022-05-03/10:54:30		Bad Raw Data Folder Deleted successfully!!
+2022-05-03/10:59:29		bad files moved to arcive
+2022-05-03/10:59:29		Bad Raw Data Folder Deleted successfully!!
+2022-05-03/11:06:11		bad files moved to arcive
+2022-05-03/11:06:11		Bad Raw Data Folder Deleted successfully!!
+2022-05-03/11:07:05		bad files moved to arcive
+2022-05-03/11:07:05		Bad Raw Data Folder Deleted successfully!!
+2022-05-03/11:11:41		bad files moved to arcive
+2022-05-03/11:11:41		Bad Raw Data Folder Deleted successfully!!
+2022-05-03/11:34:49		bad files moved to arcive
+2022-05-03/11:34:49		Bad Raw Data Folder Deleted successfully!!
+2022-05-03/11:35:47		bad files moved to arcive
+2022-05-03/11:35:47		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/07:34:54		bad files moved to arcive
+2022-05-11/07:34:54		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/09:12:10		bad files moved to arcive
+2022-05-11/09:12:10		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/09:15:32		bad files moved to arcive
+2022-05-11/09:15:32		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/09:16:57		bad files moved to arcive
+2022-05-11/09:16:57		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/09:17:15		bad files moved to arcive
+2022-05-11/09:17:15		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/09:19:45		bad files moved to arcive
+2022-05-11/09:19:45		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/09:22:04		bad files moved to arcive
+2022-05-11/09:22:04		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/10:53:02		bad files moved to arcive
+2022-05-11/10:53:02		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/10:53:18		bad files moved to arcive
+2022-05-11/10:53:18		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/10:54:11		bad files moved to arcive
+2022-05-11/10:54:11		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/10:56:28		bad files moved to arcive
+2022-05-11/10:56:28		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/12:22:00		bad files moved to arcive
+2022-05-11/12:22:00		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/12:29:16		bad files moved to arcive
+2022-05-11/12:29:16		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/12:38:37		bad files moved to arcive
+2022-05-11/12:38:37		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/12:40:21		bad files moved to arcive
+2022-05-11/12:40:21		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/12:41:44		bad files moved to arcive
+2022-05-11/12:41:44		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/12:44:31		bad files moved to arcive
+2022-05-11/12:44:31		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/12:47:05		bad files moved to arcive
+2022-05-11/12:47:05		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/12:57:00		bad files moved to arcive
+2022-05-11/12:57:00		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/12:58:27		bad files moved to arcive
+2022-05-11/12:58:27		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/12:59:22		bad files moved to arcive
+2022-05-11/12:59:22		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/13:00:56		bad files moved to arcive
+2022-05-11/13:00:56		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/13:02:59		bad files moved to arcive
+2022-05-11/13:02:59		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/13:03:06		bad files moved to arcive
+2022-05-11/13:03:06		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/14:37:39		bad files moved to arcive
+2022-05-11/14:37:39		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/14:39:35		bad files moved to arcive
+2022-05-11/14:39:35		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/15:34:21		bad files moved to arcive
+2022-05-11/15:34:21		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/16:30:34		bad files moved to arcive
+2022-05-11/16:30:34		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/16:45:55		bad files moved to arcive
+2022-05-11/16:45:55		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/16:46:54		bad files moved to arcive
+2022-05-11/16:46:54		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/16:53:36		bad files moved to arcive
+2022-05-11/16:53:36		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/16:56:31		bad files moved to arcive
+2022-05-11/16:56:31		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/16:58:05		bad files moved to arcive
+2022-05-11/16:58:05		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/16:59:48		bad files moved to arcive
+2022-05-11/16:59:48		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/17:55:10		bad files moved to arcive
+2022-05-11/17:55:10		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/17:57:27		bad files moved to arcive
+2022-05-11/17:57:27		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/17:59:39		bad files moved to arcive
+2022-05-11/17:59:39		Bad Raw Data Folder Deleted successfully!!
+2022-05-11/18:02:53		bad files moved to arcive
+2022-05-11/18:02:53		Bad Raw Data Folder Deleted successfully!!
+2022-05-12/07:35:36		bad files moved to arcive
+2022-05-12/07:35:36		Bad Raw Data Folder Deleted successfully!!
+2022-05-12/07:52:44		bad files moved to arcive
+2022-05-12/07:52:44		Bad Raw Data Folder Deleted successfully!!
+2022-05-12/07:53:50		bad files moved to arcive
+2022-05-12/07:53:50		Bad Raw Data Folder Deleted successfully!!
+2022-05-12/07:55:21		bad files moved to arcive
+2022-05-12/07:55:21		Bad Raw Data Folder Deleted successfully!!
+2022-05-12/08:00:05		bad files moved to arcive
+2022-05-12/08:00:05		Bad Raw Data Folder Deleted successfully!!
+2022-05-12/08:11:58		bad files moved to arcive
+2022-05-12/08:11:58		Bad Raw Data Folder Deleted successfully!!
+2022-05-12/11:10:31		bad files moved to arcive
+2022-05-12/11:10:31		Bad Raw Data Folder Deleted successfully!!
+2022-05-12/11:44:48		bad files moved to arcive
+2022-05-12/11:44:48		Bad Raw Data Folder Deleted successfully!!
+2022-05-12/11:54:09		bad files moved to arcive
+2022-05-12/11:54:09		Bad Raw Data Folder Deleted successfully!!
+2022-05-12/12:02:13		bad files moved to arcive
+2022-05-12/12:02:13		Bad Raw Data Folder Deleted successfully!!
+2022-05-12/13:11:00		bad files moved to arcive
+2022-05-12/13:11:00		Bad Raw Data Folder Deleted successfully!!
+2022-05-12/13:20:24		bad files moved to arcive
+2022-05-12/13:20:24		Bad Raw Data Folder Deleted successfully!!
+2022-05-12/13:34:09		bad files moved to arcive
+2022-05-12/13:34:09		Bad Raw Data Folder Deleted successfully!!
+2022-05-12/13:48:08		bad files moved to arcive
+2022-05-12/13:48:08		Bad Raw Data Folder Deleted successfully!!
+2022-05-12/13:50:09		bad files moved to arcive
+2022-05-12/13:50:09		Bad Raw Data Folder Deleted successfully!!
+2022-05-12/13:50:37		bad files moved to arcive
+2022-05-12/13:50:37		Bad Raw Data Folder Deleted successfully!!
+2022-05-12/13:56:34		bad files moved to arcive
+2022-05-12/13:56:34		Bad Raw Data Folder Deleted successfully!!
+2022-05-12/13:57:54		bad files moved to arcive
+2022-05-12/13:57:54		Bad Raw Data Folder Deleted successfully!!
+2022-05-12/14:29:49		bad files moved to arcive
+2022-05-12/14:29:49		Bad Raw Data Folder Deleted successfully!!
+2022-05-12/14:35:33		bad files moved to arcive
+2022-05-12/14:35:33		Bad Raw Data Folder Deleted successfully!!
+2022-05-12/14:37:07		bad files moved to arcive
+2022-05-12/14:37:07		Bad Raw Data Folder Deleted successfully!!
+2022-05-12/14:38:01		bad files moved to arcive
+2022-05-12/14:38:01		Bad Raw Data Folder Deleted successfully!!
+2022-05-12/14:55:47		bad files moved to arcive
+2022-05-12/14:55:47		Bad Raw Data Folder Deleted successfully!!
+2022-05-12/15:12:34		bad files moved to arcive
+2022-05-12/15:12:34		Bad Raw Data Folder Deleted successfully!!
+2022-05-12/15:21:21		bad files moved to arcive
+2022-05-12/15:21:21		Bad Raw Data Folder Deleted successfully!!
+2022-05-12/15:21:51		bad files moved to arcive
+2022-05-12/15:21:51		Bad Raw Data Folder Deleted successfully!!
+2022-05-12/15:29:37		bad files moved to arcive
+2022-05-12/15:29:37		Bad Raw Data Folder Deleted successfully!!
+2022-05-12/15:33:33		bad files moved to arcive
+2022-05-12/15:33:33		Bad Raw Data Folder Deleted successfully!!
+2022-05-12/16:08:39		bad files moved to arcive
+2022-05-12/16:08:39		Bad Raw Data Folder Deleted successfully!!
+2022-05-13/09:25:25		bad files moved to arcive
+2022-05-13/09:25:25		Bad Raw Data Folder Deleted successfully!!
+2022-05-13/09:36:25		bad files moved to arcive
+2022-05-13/09:36:25		Bad Raw Data Folder Deleted successfully!!
+2022-05-14/08:49:07		bad files moved to arcive
+2022-05-14/08:49:07		Bad Raw Data Folder Deleted successfully!!
+2022-05-15/08:08:03		bad files moved to arcive
+2022-05-15/08:08:03		Bad Raw Data Folder Deleted successfully!!
+2022-05-15/08:19:54		bad files moved to arcive
+2022-05-15/08:19:54		Bad Raw Data Folder Deleted successfully!!
+2022-05-15/08:21:41		bad files moved to arcive
+2022-05-15/08:21:41		Bad Raw Data Folder Deleted successfully!!
+2022-05-15/08:22:14		bad files moved to arcive
+2022-05-15/08:22:14		Bad Raw Data Folder Deleted successfully!!
+2022-05-15/08:22:58		bad files moved to arcive
+2022-05-15/08:22:58		Bad Raw Data Folder Deleted successfully!!
+2022-05-15/08:29:38		bad files moved to arcive
+2022-05-15/08:29:38		Bad Raw Data Folder Deleted successfully!!
+2022-05-15/08:33:39		bad files moved to arcive
+2022-05-15/08:33:39		Bad Raw Data Folder Deleted successfully!!
+2022-05-15/08:34:36		bad files moved to arcive
+2022-05-15/08:34:36		Bad Raw Data Folder Deleted successfully!!
+2022-05-15/08:34:51		bad files moved to arcive
+2022-05-15/08:34:51		Bad Raw Data Folder Deleted successfully!!
+2022-05-15/08:35:19		bad files moved to arcive
+2022-05-15/08:35:19		Bad Raw Data Folder Deleted successfully!!
+2022-05-15/08:36:18		bad files moved to arcive
+2022-05-15/08:36:18		Bad Raw Data Folder Deleted successfully!!
+2022-05-15/08:39:16		bad files moved to arcive
+2022-05-15/08:39:16		Bad Raw Data Folder Deleted successfully!!
+2022-05-15/08:41:00		bad files moved to arcive
+2022-05-15/08:41:00		Bad Raw Data Folder Deleted successfully!!
+2022-05-15/08:42:03		bad files moved to arcive
+2022-05-15/08:42:03		Bad Raw Data Folder Deleted successfully!!
+2022-05-15/08:45:23		bad files moved to arcive
+2022-05-15/08:45:23		Bad Raw Data Folder Deleted successfully!!

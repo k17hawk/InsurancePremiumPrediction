@@ -1,0 +1,14 @@
+{	"SampleFileName": "insurance_021119920_010222.csv",
+	"LengthOfDateStampInFile": "9",
+	"LengthOfTimeStampInFile": "6",
+	"NumberofColumns" : 7,
+	"ColName": {
+		"age": "Integer",
+		"bmi": "Float",
+		"children": "Integer",
+		"sex": "varchar",
+		"region": "varchar",
+		"smoker": "varchar",
+		"expenses": "integer"
+	}
+}

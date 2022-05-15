@@ -1,0 +1,1600 @@
+2022-03-28/08:20:12		Start of Validation on files for prediction!!
+2022-03-28/08:21:21		Start of Validation on files for prediction!!
+2022-03-28/08:22:02		Start of Validation on files for prediction!!
+2022-03-28/08:22:04		Start of Prediction
+2022-03-28/08:22:04		Entered the get_data method of the Data_Getter class
+2022-03-28/08:22:04		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-03-28/08:22:04		Entered the Encoded categorical columns steps in preprocessing
+2022-03-28/08:22:04		Exception occured in encode_categorical_columns method of the Preprocessor class. Exception message:  'Column not found: expenses'
+2022-03-28/08:22:04		encoding for categorical columns Failed. Exited the encode_categorical_columns method of the Preprocessor class
+2022-03-28/08:22:04		Error occured while running the prediction!! Error:: 
+2022-03-28/08:25:18		Start of Prediction
+2022-03-28/08:25:18		Entered the get_data method of the Data_Getter class
+2022-03-28/08:25:18		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-03-28/08:25:18		Entered the Encoded categorical columns steps in preprocessing
+2022-03-28/08:25:18		Exception occured in encode_categorical_columns method of the Preprocessor class. Exception message:  'Column not found: expenses'
+2022-03-28/08:25:18		encoding for categorical columns Failed. Exited the encode_categorical_columns method of the Preprocessor class
+2022-03-28/08:25:18		Error occured while running the prediction!! Error:: 
+2022-03-28/08:22:55		Start of Validation on files for prediction!!
+2022-03-28/13:39:19		Start of Prediction
+2022-03-28/13:39:19		Entered the get_data method of the Data_Getter class
+2022-03-28/13:39:19		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-03-28/13:39:19		Entered the Encoded categorical columns steps in preprocessing
+2022-03-28/13:39:19		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-03-28/13:39:19		Entered the scale_numerical_columns method of the Preprocessor class
+2022-03-28/13:39:19		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-03-28/13:39:19		Entered the load_model method of the File_Operation class
+2022-03-28/13:39:19		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-03-28/13:39:23		Entered the find_correct_model_file method of the File_Operation class
+2022-03-28/13:39:23		Exited the find_correct_model_file method of the Model_Finder class.
+2022-03-28/13:39:26		Entered the load_model method of the File_Operation class
+2022-03-28/13:39:26		Model File gradientBoosting2 loaded. Exited the load_model method of the Model_Finder class
+2022-03-28/13:39:56		End of Prediction
+2022-03-28/13:39:17		Start of Validation on files for prediction!!
+2022-03-28/13:40:43		Start of Validation on files for prediction!!
+2022-03-28/13:40:45		Start of Prediction
+2022-03-28/13:40:45		Entered the get_data method of the Data_Getter class
+2022-03-28/13:40:45		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-03-28/13:40:45		Entered the Encoded categorical columns steps in preprocessing
+2022-03-28/13:40:45		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-03-28/13:40:45		Entered the scale_numerical_columns method of the Preprocessor class
+2022-03-28/13:40:45		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-03-28/13:40:45		Entered the load_model method of the File_Operation class
+2022-03-28/13:40:45		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-03-28/13:40:45		Entered the find_correct_model_file method of the File_Operation class
+2022-03-28/13:40:45		Exited the find_correct_model_file method of the Model_Finder class.
+2022-03-28/13:40:45		Entered the load_model method of the File_Operation class
+2022-03-28/13:40:45		Model File gradientBoosting2 loaded. Exited the load_model method of the Model_Finder class
+2022-03-28/13:40:45		End of Prediction
+2022-03-28/13:42:57		Start of Prediction
+2022-03-28/13:42:57		Entered the get_data method of the Data_Getter class
+2022-03-28/13:42:57		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-03-28/13:42:57		Entered the Encoded categorical columns steps in preprocessing
+2022-03-28/13:42:57		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-03-28/13:42:57		Entered the scale_numerical_columns method of the Preprocessor class
+2022-03-28/13:42:57		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-03-28/13:42:57		Entered the load_model method of the File_Operation class
+2022-03-28/13:42:57		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-03-28/13:42:59		Entered the find_correct_model_file method of the File_Operation class
+2022-03-28/13:42:59		Exited the find_correct_model_file method of the Model_Finder class.
+2022-03-28/13:42:59		Entered the load_model method of the File_Operation class
+2022-03-28/13:42:59		Model File gradientBoosting2 loaded. Exited the load_model method of the Model_Finder class
+2022-03-28/13:43:07		End of Prediction
+2022-03-28/13:42:55		Start of Validation on files for prediction!!
+2022-03-28/13:43:59		Start of Validation on files for prediction!!
+2022-03-28/13:44:01		Start of Prediction
+2022-03-28/13:44:01		Entered the get_data method of the Data_Getter class
+2022-03-28/13:44:01		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-03-28/13:44:01		Entered the Encoded categorical columns steps in preprocessing
+2022-03-28/13:44:01		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-03-28/13:44:01		Entered the scale_numerical_columns method of the Preprocessor class
+2022-03-28/13:44:01		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-03-28/13:44:01		Entered the load_model method of the File_Operation class
+2022-03-28/13:44:01		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-03-28/13:44:01		Entered the find_correct_model_file method of the File_Operation class
+2022-03-28/13:44:01		Exited the find_correct_model_file method of the Model_Finder class.
+2022-03-28/13:44:01		Entered the load_model method of the File_Operation class
+2022-03-28/13:44:01		Model File gradientBoosting2 loaded. Exited the load_model method of the Model_Finder class
+2022-03-28/13:44:01		End of Prediction
+2022-03-28/13:47:02		Start of Validation on files for prediction!!
+2022-03-28/13:47:04		Start of Prediction
+2022-03-28/13:47:04		Entered the get_data method of the Data_Getter class
+2022-03-28/13:47:04		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-03-28/13:47:04		Entered the Encoded categorical columns steps in preprocessing
+2022-03-28/13:47:04		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-03-28/13:47:04		Entered the scale_numerical_columns method of the Preprocessor class
+2022-03-28/13:47:04		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-03-28/13:47:04		Entered the load_model method of the File_Operation class
+2022-03-28/13:47:04		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-03-28/13:47:04		Entered the find_correct_model_file method of the File_Operation class
+2022-03-28/13:47:04		Exited the find_correct_model_file method of the Model_Finder class.
+2022-03-28/13:47:04		Entered the load_model method of the File_Operation class
+2022-03-28/13:47:04		Model File gradientBoosting2 loaded. Exited the load_model method of the Model_Finder class
+2022-03-28/13:47:04		End of Prediction
+2022-03-28/14:16:28		Start of Validation on files for prediction!!
+2022-03-28/14:16:29		Start of Prediction
+2022-03-28/14:16:29		Entered the get_data method of the Data_Getter class
+2022-03-28/14:16:29		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-03-28/14:16:29		Entered the Encoded categorical columns steps in preprocessing
+2022-03-28/14:16:29		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-03-28/14:16:29		Entered the scale_numerical_columns method of the Preprocessor class
+2022-03-28/14:16:29		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-03-28/14:16:29		Entered the load_model method of the File_Operation class
+2022-03-28/14:16:29		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-03-28/14:16:29		Entered the find_correct_model_file method of the File_Operation class
+2022-03-28/14:16:29		Exited the find_correct_model_file method of the Model_Finder class.
+2022-03-28/14:16:29		Entered the load_model method of the File_Operation class
+2022-03-28/14:16:29		Model File gradientBoosting2 loaded. Exited the load_model method of the Model_Finder class
+2022-03-28/14:16:29		End of Prediction
+2022-03-29/07:39:48		Start of Validation on files for prediction!!
+2022-03-29/07:39:53		Start of Prediction
+2022-03-29/07:39:53		Entered the get_data method of the Data_Getter class
+2022-03-29/07:39:53		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-03-29/07:39:53		Entered the Encoded categorical columns steps in preprocessing
+2022-03-29/07:39:53		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-03-29/07:39:53		Entered the scale_numerical_columns method of the Preprocessor class
+2022-03-29/07:39:53		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-03-29/07:39:53		Entered the load_model method of the File_Operation class
+2022-03-29/07:39:53		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-03-29/07:39:53		Entered the find_correct_model_file method of the File_Operation class
+2022-03-29/07:39:53		Exception occured in find_correct_model_file method of the Model_Finder class. Exception message:  'File_Operation' object has no attribute 'model_name'
+2022-03-29/07:39:53		Exited the find_correct_model_file method of the Model_Finder class with Failure
+2022-03-29/07:39:53		Error occured while running the prediction!! Error:: 
+2022-03-29/09:24:48		Start of Validation on files for prediction!!
+2022-03-29/09:24:49		Start of Prediction
+2022-03-29/09:24:49		Entered the get_data method of the Data_Getter class
+2022-03-29/09:24:49		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-03-29/09:24:49		Entered the Encoded categorical columns steps in preprocessing
+2022-03-29/09:24:50		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-03-29/09:24:50		Entered the scale_numerical_columns method of the Preprocessor class
+2022-03-29/09:24:50		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-03-29/09:24:50		Entered the load_model method of the File_Operation class
+2022-03-29/09:24:50		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-03-29/09:24:59		Entered the find_correct_model_file method of the File_Operation class
+2022-03-29/09:24:59		Exited the find_correct_model_file method of the Model_Finder class.
+2022-03-29/09:25:00		Entered the load_model method of the File_Operation class
+2022-03-29/09:25:00		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-03-29/09:29:17		End of Prediction
+2022-04-03/17:50:46		Start of Validation on files for prediction!!
+2022-04-03/17:55:21		Start of Validation on files for prediction!!
+2022-04-03/17:55:23		Start of Prediction
+2022-04-03/17:55:23		Entered the get_data method of the Data_Getter class
+2022-04-03/17:55:23		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-03/17:55:23		Entered the Encoded categorical columns steps in preprocessing
+2022-04-03/17:55:23		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-04-03/17:55:23		Entered the scale_numerical_columns method of the Preprocessor class
+2022-04-03/17:55:23		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-03/17:55:23		Entered the load_model method of the File_Operation class
+2022-04-03/17:55:23		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-04-03/17:55:24		Entered the find_correct_model_file method of the File_Operation class
+2022-04-03/17:55:24		Exited the find_correct_model_file method of the Model_Finder class.
+2022-04-03/17:55:24		Entered the load_model method of the File_Operation class
+2022-04-03/17:55:24		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-04-03/17:55:24		End of Prediction
+2022-04-03/18:07:13		Start of Validation on files for prediction!!
+2022-04-03/18:07:26		Start of Validation on files for prediction!!
+2022-04-03/18:07:28		Start of Prediction
+2022-04-03/18:07:28		Entered the get_data method of the Data_Getter class
+2022-04-03/18:07:28		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-03/18:07:28		Entered the Encoded categorical columns steps in preprocessing
+2022-04-03/18:07:28		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-04-03/18:07:28		Entered the scale_numerical_columns method of the Preprocessor class
+2022-04-03/18:07:28		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-03/18:07:28		Entered the load_model method of the File_Operation class
+2022-04-03/18:07:28		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-04-03/18:07:28		Entered the find_correct_model_file method of the File_Operation class
+2022-04-03/18:07:28		Exited the find_correct_model_file method of the Model_Finder class.
+2022-04-03/18:07:28		Entered the load_model method of the File_Operation class
+2022-04-03/18:07:28		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-04-03/18:07:28		End of Prediction
+2022-04-03/18:19:20		Start of Validation on files for prediction!!
+2022-04-03/18:19:22		Start of Validation on files for prediction!!
+2022-04-03/18:19:23		Start of Prediction
+2022-04-03/18:19:23		Entered the get_data method of the Data_Getter class
+2022-04-03/18:19:23		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-03/18:19:23		Entered the Encoded categorical columns steps in preprocessing
+2022-04-03/18:19:23		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-04-03/18:19:23		Entered the scale_numerical_columns method of the Preprocessor class
+2022-04-03/18:19:23		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-03/18:19:23		Entered the load_model method of the File_Operation class
+2022-04-03/18:19:23		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-04-03/18:19:23		Entered the find_correct_model_file method of the File_Operation class
+2022-04-03/18:19:23		Exited the find_correct_model_file method of the Model_Finder class.
+2022-04-03/18:19:23		Entered the load_model method of the File_Operation class
+2022-04-03/18:19:23		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-04-03/18:19:23		End of Prediction
+2022-05-03/10:54:23		Start of Validation on files for prediction!!
+2022-05-03/10:54:28		Start of Validation on files for prediction!!
+2022-05-03/10:54:30		Start of Prediction
+2022-05-03/10:54:30		Entered the get_data method of the Data_Getter class
+2022-05-03/10:54:30		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-03/10:54:30		Entered the Encoded categorical columns steps in preprocessing
+2022-05-03/10:54:30		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-03/10:54:30		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-03/10:54:30		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-03/10:54:30		Entered the load_model method of the File_Operation class
+2022-05-03/10:54:30		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-03/10:54:30		Entered the find_correct_model_file method of the File_Operation class
+2022-05-03/10:54:30		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-03/10:54:30		Entered the load_model method of the File_Operation class
+2022-05-03/10:54:30		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-03/10:54:30		End of Prediction
+2022-05-03/10:59:27		Start of Validation on files for prediction!!
+2022-05-03/10:59:29		Start of Prediction
+2022-05-03/10:59:29		Entered the get_data method of the Data_Getter class
+2022-05-03/10:59:29		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-03/10:59:29		Entered the Encoded categorical columns steps in preprocessing
+2022-05-03/10:59:29		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-03/10:59:29		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-03/10:59:29		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-03/10:59:29		Entered the load_model method of the File_Operation class
+2022-05-03/10:59:29		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-03/10:59:29		Entered the find_correct_model_file method of the File_Operation class
+2022-05-03/10:59:29		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-03/10:59:29		Entered the load_model method of the File_Operation class
+2022-05-03/10:59:29		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-03/10:59:29		End of Prediction
+2022-05-03/10:59:41		Start of Validation on files for prediction!!
+2022-05-03/11:06:09		Start of Validation on files for prediction!!
+2022-05-03/11:06:11		Start of Prediction
+2022-05-03/11:06:11		Entered the get_data method of the Data_Getter class
+2022-05-03/11:06:11		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-03/11:06:11		Entered the Encoded categorical columns steps in preprocessing
+2022-05-03/11:06:11		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-03/11:06:11		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-03/11:06:11		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-03/11:06:11		Entered the load_model method of the File_Operation class
+2022-05-03/11:06:11		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-03/11:06:11		Entered the find_correct_model_file method of the File_Operation class
+2022-05-03/11:06:11		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-03/11:06:11		Entered the load_model method of the File_Operation class
+2022-05-03/11:06:11		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-03/11:06:11		End of Prediction
+2022-05-03/11:07:03		Start of Validation on files for prediction!!
+2022-05-03/11:07:05		Start of Prediction
+2022-05-03/11:07:05		Entered the get_data method of the Data_Getter class
+2022-05-03/11:07:05		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-03/11:07:05		Entered the Encoded categorical columns steps in preprocessing
+2022-05-03/11:07:05		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-03/11:07:05		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-03/11:07:05		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-03/11:07:05		Entered the load_model method of the File_Operation class
+2022-05-03/11:07:05		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-03/11:07:05		Entered the find_correct_model_file method of the File_Operation class
+2022-05-03/11:07:05		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-03/11:07:05		Entered the load_model method of the File_Operation class
+2022-05-03/11:07:05		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-03/11:07:05		End of Prediction
+2022-05-03/11:11:39		Start of Validation on files for prediction!!
+2022-05-03/11:11:41		Start of Prediction
+2022-05-03/11:11:41		Entered the get_data method of the Data_Getter class
+2022-05-03/11:11:41		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-03/11:11:41		Entered the Encoded categorical columns steps in preprocessing
+2022-05-03/11:11:41		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-03/11:11:41		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-03/11:11:41		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-03/11:11:41		Entered the load_model method of the File_Operation class
+2022-05-03/11:11:41		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-03/11:11:41		Entered the find_correct_model_file method of the File_Operation class
+2022-05-03/11:11:41		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-03/11:11:41		Entered the load_model method of the File_Operation class
+2022-05-03/11:11:41		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-03/11:11:41		End of Prediction
+2022-05-03/11:34:41		Start of Validation on files for prediction!!
+2022-05-03/11:34:49		Start of Prediction
+2022-05-03/11:34:49		Entered the get_data method of the Data_Getter class
+2022-05-03/11:34:49		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-03/11:34:49		Entered the Encoded categorical columns steps in preprocessing
+2022-05-03/11:34:49		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-03/11:34:49		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-03/11:34:49		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-03/11:34:49		Entered the load_model method of the File_Operation class
+2022-05-03/11:34:49		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-03/11:34:49		Entered the find_correct_model_file method of the File_Operation class
+2022-05-03/11:34:49		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-03/11:34:49		Entered the load_model method of the File_Operation class
+2022-05-03/11:34:49		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-03/11:34:49		End of Prediction
+2022-05-03/11:35:39		Start of Validation on files for prediction!!
+2022-05-03/11:35:47		Start of Prediction
+2022-05-03/11:35:47		Entered the get_data method of the Data_Getter class
+2022-05-03/11:35:47		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-03/11:35:47		Entered the Encoded categorical columns steps in preprocessing
+2022-05-03/11:35:47		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-03/11:35:47		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-03/11:35:47		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-03/11:35:47		Entered the load_model method of the File_Operation class
+2022-05-03/11:35:47		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-03/11:35:47		Entered the find_correct_model_file method of the File_Operation class
+2022-05-03/11:35:47		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-03/11:35:47		Entered the load_model method of the File_Operation class
+2022-05-03/11:35:47		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-03/11:35:47		End of Prediction
+2022-05-11/07:34:47		Start of Validation on files for prediction!!
+2022-05-11/07:34:51		Start of Validation on files for prediction!!
+2022-05-11/07:34:54		Start of Prediction
+2022-05-11/07:34:54		Entered the get_data method of the Data_Getter class
+2022-05-11/07:34:54		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/07:34:54		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/07:34:54		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/07:34:54		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/07:34:54		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/07:34:54		Entered the load_model method of the File_Operation class
+2022-05-11/07:34:54		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/07:34:54		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/07:34:54		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/07:34:54		Entered the load_model method of the File_Operation class
+2022-05-11/07:34:54		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/07:34:54		End of Prediction
+2022-05-11/07:39:33		Start of Validation on files for prediction!!
+2022-05-11/09:12:02		Start of Validation on files for prediction!!
+2022-05-11/09:12:10		Start of Prediction
+2022-05-11/09:12:10		Entered the get_data method of the Data_Getter class
+2022-05-11/09:12:10		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/09:12:10		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/09:12:11		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/09:12:11		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/09:12:11		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/09:12:11		Entered the load_model method of the File_Operation class
+2022-05-11/09:12:11		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/09:12:11		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/09:12:11		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/09:12:11		Entered the load_model method of the File_Operation class
+2022-05-11/09:12:11		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/09:12:11		End of Prediction
+2022-05-11/09:15:25		Start of Validation on files for prediction!!
+2022-05-11/09:15:32		Start of Prediction
+2022-05-11/09:15:32		Entered the get_data method of the Data_Getter class
+2022-05-11/09:15:32		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/09:15:32		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/09:15:32		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/09:15:32		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/09:15:32		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/09:15:32		Entered the load_model method of the File_Operation class
+2022-05-11/09:15:32		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/09:15:32		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/09:15:32		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/09:15:32		Entered the load_model method of the File_Operation class
+2022-05-11/09:15:32		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/09:15:32		End of Prediction
+2022-05-11/09:16:55		Start of Validation on files for prediction!!
+2022-05-11/09:16:57		Start of Prediction
+2022-05-11/09:16:57		Entered the get_data method of the Data_Getter class
+2022-05-11/09:16:57		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/09:16:57		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/09:16:57		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/09:16:57		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/09:16:57		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/09:16:57		Entered the load_model method of the File_Operation class
+2022-05-11/09:16:57		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/09:16:57		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/09:16:57		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/09:16:57		Entered the load_model method of the File_Operation class
+2022-05-11/09:16:57		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/09:16:57		End of Prediction
+2022-05-11/09:17:10		Start of Validation on files for prediction!!
+2022-05-11/09:17:15		Start of Prediction
+2022-05-11/09:17:15		Entered the get_data method of the Data_Getter class
+2022-05-11/09:17:15		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/09:17:15		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/09:17:15		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/09:17:15		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/09:17:15		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/09:17:15		Entered the load_model method of the File_Operation class
+2022-05-11/09:17:15		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/09:17:15		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/09:17:15		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/09:17:15		Entered the load_model method of the File_Operation class
+2022-05-11/09:17:15		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/09:17:15		End of Prediction
+2022-05-11/09:19:41		Start of Validation on files for prediction!!
+2022-05-11/09:19:45		Start of Prediction
+2022-05-11/09:19:45		Entered the get_data method of the Data_Getter class
+2022-05-11/09:19:45		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/09:19:45		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/09:19:45		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/09:19:45		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/09:19:45		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/09:19:45		Entered the load_model method of the File_Operation class
+2022-05-11/09:19:45		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/09:19:45		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/09:19:45		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/09:19:45		Entered the load_model method of the File_Operation class
+2022-05-11/09:19:45		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/09:19:45		End of Prediction
+2022-05-11/09:22:00		Start of Validation on files for prediction!!
+2022-05-11/09:22:04		Start of Prediction
+2022-05-11/09:22:04		Entered the get_data method of the Data_Getter class
+2022-05-11/09:22:04		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/09:22:04		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/09:22:04		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/09:22:04		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/09:22:04		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/09:22:04		Entered the load_model method of the File_Operation class
+2022-05-11/09:22:04		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/09:22:04		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/09:22:04		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/09:22:04		Entered the load_model method of the File_Operation class
+2022-05-11/09:22:04		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/09:22:04		End of Prediction
+2022-05-11/10:52:50		Start of Validation on files for prediction!!
+2022-05-11/10:53:02		Start of Prediction
+2022-05-11/10:53:02		Entered the get_data method of the Data_Getter class
+2022-05-11/10:53:02		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/10:53:02		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/10:53:03		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/10:53:03		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/10:53:03		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/10:53:03		Entered the load_model method of the File_Operation class
+2022-05-11/10:53:03		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/10:53:03		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/10:53:03		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/10:53:03		Entered the load_model method of the File_Operation class
+2022-05-11/10:53:03		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/10:53:04		End of Prediction
+2022-05-11/10:53:17		Start of Validation on files for prediction!!
+2022-05-11/10:53:18		Start of Prediction
+2022-05-11/10:53:18		Entered the get_data method of the Data_Getter class
+2022-05-11/10:53:18		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/10:53:18		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/10:53:18		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/10:53:18		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/10:53:18		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/10:53:18		Entered the load_model method of the File_Operation class
+2022-05-11/10:53:18		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/10:53:18		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/10:53:18		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/10:53:18		Entered the load_model method of the File_Operation class
+2022-05-11/10:53:18		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/10:53:18		End of Prediction
+2022-05-11/10:54:09		Start of Validation on files for prediction!!
+2022-05-11/10:54:11		Start of Prediction
+2022-05-11/10:54:11		Entered the get_data method of the Data_Getter class
+2022-05-11/10:54:11		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/10:54:11		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/10:54:11		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/10:54:11		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/10:54:11		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/10:54:11		Entered the load_model method of the File_Operation class
+2022-05-11/10:54:11		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/10:54:11		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/10:54:11		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/10:54:11		Entered the load_model method of the File_Operation class
+2022-05-11/10:54:11		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/10:54:11		End of Prediction
+2022-05-11/10:56:26		Start of Validation on files for prediction!!
+2022-05-11/10:56:28		Start of Prediction
+2022-05-11/10:56:28		Entered the get_data method of the Data_Getter class
+2022-05-11/10:56:28		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/10:56:28		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/10:56:28		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/10:56:28		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/10:56:28		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/10:56:28		Entered the load_model method of the File_Operation class
+2022-05-11/10:56:28		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/10:56:28		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/10:56:28		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/10:56:28		Entered the load_model method of the File_Operation class
+2022-05-11/10:56:28		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/10:56:28		End of Prediction
+2022-05-11/12:21:52		Start of Validation on files for prediction!!
+2022-05-11/12:22:01		Start of Prediction
+2022-05-11/12:22:01		Entered the get_data method of the Data_Getter class
+2022-05-11/12:22:01		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/12:22:01		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/12:22:02		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/12:22:02		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/12:22:02		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/12:22:02		Entered the load_model method of the File_Operation class
+2022-05-11/12:22:02		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/12:22:02		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/12:22:02		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/12:22:02		Entered the load_model method of the File_Operation class
+2022-05-11/12:22:02		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/12:22:04		End of Prediction
+2022-05-11/12:29:13		Start of Validation on files for prediction!!
+2022-05-11/12:29:16		Start of Prediction
+2022-05-11/12:29:16		Entered the get_data method of the Data_Getter class
+2022-05-11/12:29:16		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/12:29:16		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/12:29:16		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/12:29:16		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/12:29:16		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/12:29:16		Entered the load_model method of the File_Operation class
+2022-05-11/12:29:16		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/12:29:16		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/12:29:16		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/12:29:16		Entered the load_model method of the File_Operation class
+2022-05-11/12:29:16		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/12:29:16		End of Prediction
+2022-05-11/12:38:35		Start of Validation on files for prediction!!
+2022-05-11/12:38:37		Start of Prediction
+2022-05-11/12:38:37		Entered the get_data method of the Data_Getter class
+2022-05-11/12:38:37		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/12:38:37		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/12:38:37		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/12:38:37		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/12:38:37		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/12:38:37		Entered the load_model method of the File_Operation class
+2022-05-11/12:38:37		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/12:38:37		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/12:38:37		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/12:38:37		Entered the load_model method of the File_Operation class
+2022-05-11/12:38:37		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/12:38:37		End of Prediction
+2022-05-11/12:40:19		Start of Validation on files for prediction!!
+2022-05-11/12:40:21		Start of Prediction
+2022-05-11/12:40:21		Entered the get_data method of the Data_Getter class
+2022-05-11/12:40:21		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/12:40:21		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/12:40:21		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/12:40:21		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/12:40:21		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/12:40:21		Entered the load_model method of the File_Operation class
+2022-05-11/12:40:21		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/12:40:21		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/12:40:21		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/12:40:21		Entered the load_model method of the File_Operation class
+2022-05-11/12:40:21		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/12:40:21		End of Prediction
+2022-05-11/12:41:41		Start of Validation on files for prediction!!
+2022-05-11/12:41:44		Start of Prediction
+2022-05-11/12:41:44		Entered the get_data method of the Data_Getter class
+2022-05-11/12:41:44		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/12:41:44		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/12:41:44		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/12:41:44		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/12:41:44		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/12:41:44		Entered the load_model method of the File_Operation class
+2022-05-11/12:41:44		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/12:41:44		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/12:41:44		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/12:41:44		Entered the load_model method of the File_Operation class
+2022-05-11/12:41:44		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/12:41:44		End of Prediction
+2022-05-11/12:44:29		Start of Validation on files for prediction!!
+2022-05-11/12:44:31		Start of Prediction
+2022-05-11/12:44:31		Entered the get_data method of the Data_Getter class
+2022-05-11/12:44:31		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/12:44:31		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/12:44:31		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/12:44:31		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/12:44:31		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/12:44:31		Entered the load_model method of the File_Operation class
+2022-05-11/12:44:31		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/12:44:31		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/12:44:31		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/12:44:31		Entered the load_model method of the File_Operation class
+2022-05-11/12:44:31		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/12:44:31		End of Prediction
+2022-05-11/12:47:03		Start of Validation on files for prediction!!
+2022-05-11/12:47:05		Start of Prediction
+2022-05-11/12:47:05		Entered the get_data method of the Data_Getter class
+2022-05-11/12:47:05		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/12:47:05		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/12:47:05		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/12:47:05		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/12:47:05		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/12:47:05		Entered the load_model method of the File_Operation class
+2022-05-11/12:47:05		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/12:47:05		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/12:47:05		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/12:47:05		Entered the load_model method of the File_Operation class
+2022-05-11/12:47:05		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/12:47:05		End of Prediction
+2022-05-11/12:56:54		Start of Validation on files for prediction!!
+2022-05-11/12:57:00		Start of Prediction
+2022-05-11/12:57:00		Entered the get_data method of the Data_Getter class
+2022-05-11/12:57:00		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/12:57:00		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/12:57:00		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/12:57:00		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/12:57:00		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/12:57:00		Entered the load_model method of the File_Operation class
+2022-05-11/12:57:00		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/12:57:00		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/12:57:00		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/12:57:00		Entered the load_model method of the File_Operation class
+2022-05-11/12:57:00		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/12:57:00		End of Prediction
+2022-05-11/12:58:22		Start of Validation on files for prediction!!
+2022-05-11/12:58:27		Start of Prediction
+2022-05-11/12:58:27		Entered the get_data method of the Data_Getter class
+2022-05-11/12:58:27		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/12:58:27		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/12:58:27		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/12:58:27		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/12:58:27		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/12:58:27		Entered the load_model method of the File_Operation class
+2022-05-11/12:58:27		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/12:58:27		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/12:58:27		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/12:58:27		Entered the load_model method of the File_Operation class
+2022-05-11/12:58:27		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/12:58:27		End of Prediction
+2022-05-11/12:59:18		Start of Validation on files for prediction!!
+2022-05-11/12:59:22		Start of Prediction
+2022-05-11/12:59:22		Entered the get_data method of the Data_Getter class
+2022-05-11/12:59:22		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/12:59:22		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/12:59:22		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/12:59:22		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/12:59:22		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/12:59:22		Entered the load_model method of the File_Operation class
+2022-05-11/12:59:22		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/12:59:22		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/12:59:22		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/12:59:22		Entered the load_model method of the File_Operation class
+2022-05-11/12:59:22		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/12:59:22		End of Prediction
+2022-05-11/13:00:53		Start of Validation on files for prediction!!
+2022-05-11/13:00:56		Start of Prediction
+2022-05-11/13:00:56		Entered the get_data method of the Data_Getter class
+2022-05-11/13:00:56		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/13:00:56		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/13:00:56		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/13:00:56		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/13:00:56		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/13:00:56		Entered the load_model method of the File_Operation class
+2022-05-11/13:00:56		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/13:00:56		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/13:00:56		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/13:00:56		Entered the load_model method of the File_Operation class
+2022-05-11/13:00:56		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/13:00:56		End of Prediction
+2022-05-11/13:02:56		Start of Validation on files for prediction!!
+2022-05-11/13:02:59		Start of Prediction
+2022-05-11/13:02:59		Entered the get_data method of the Data_Getter class
+2022-05-11/13:02:59		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/13:02:59		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/13:02:59		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/13:02:59		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/13:02:59		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/13:02:59		Entered the load_model method of the File_Operation class
+2022-05-11/13:02:59		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/13:02:59		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/13:02:59		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/13:02:59		Entered the load_model method of the File_Operation class
+2022-05-11/13:02:59		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/13:02:59		End of Prediction
+2022-05-11/13:03:02		Start of Validation on files for prediction!!
+2022-05-11/13:03:06		Start of Prediction
+2022-05-11/13:03:06		Entered the get_data method of the Data_Getter class
+2022-05-11/13:03:06		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/13:03:06		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/13:03:06		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/13:03:06		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/13:03:06		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/13:03:06		Entered the load_model method of the File_Operation class
+2022-05-11/13:03:06		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/13:03:06		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/13:03:06		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/13:03:06		Entered the load_model method of the File_Operation class
+2022-05-11/13:03:06		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/13:03:06		End of Prediction
+2022-05-11/14:37:33		Start of Validation on files for prediction!!
+2022-05-11/14:37:39		Start of Prediction
+2022-05-11/14:37:39		Entered the get_data method of the Data_Getter class
+2022-05-11/14:37:39		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/14:37:39		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/14:37:39		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/14:37:39		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/14:37:39		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/14:37:39		Entered the load_model method of the File_Operation class
+2022-05-11/14:37:39		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/14:37:40		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/14:37:40		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/14:37:40		Entered the load_model method of the File_Operation class
+2022-05-11/14:37:40		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/14:37:40		End of Prediction
+2022-05-11/14:39:29		Start of Validation on files for prediction!!
+2022-05-11/14:39:35		Start of Prediction
+2022-05-11/14:39:35		Entered the get_data method of the Data_Getter class
+2022-05-11/14:39:35		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/14:39:35		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/14:39:36		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/14:39:36		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/14:39:36		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/14:39:36		Entered the load_model method of the File_Operation class
+2022-05-11/14:39:36		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/14:39:36		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/14:39:36		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/14:39:36		Entered the load_model method of the File_Operation class
+2022-05-11/14:39:36		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/14:39:36		End of Prediction
+2022-05-11/15:34:17		Start of Validation on files for prediction!!
+2022-05-11/15:34:21		Start of Prediction
+2022-05-11/15:34:21		Entered the get_data method of the Data_Getter class
+2022-05-11/15:34:21		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/15:34:21		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/15:34:21		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/15:34:21		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/15:34:21		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/15:34:21		Entered the load_model method of the File_Operation class
+2022-05-11/15:34:21		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/15:34:21		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/15:34:21		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/15:34:21		Entered the load_model method of the File_Operation class
+2022-05-11/15:34:21		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/15:34:21		End of Prediction
+2022-05-11/16:30:30		Start of Validation on files for prediction!!
+2022-05-11/16:30:34		Start of Prediction
+2022-05-11/16:30:34		Entered the get_data method of the Data_Getter class
+2022-05-11/16:30:34		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/16:30:34		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/16:30:34		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/16:30:34		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/16:30:34		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/16:30:34		Entered the load_model method of the File_Operation class
+2022-05-11/16:30:34		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/16:30:35		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/16:30:35		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/16:30:35		Entered the load_model method of the File_Operation class
+2022-05-11/16:30:35		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/16:30:35		Error occured while running the prediction!! Error:: 'module' object is not callable
+2022-05-11/16:45:53		Start of Validation on files for prediction!!
+2022-05-11/16:45:55		Start of Prediction
+2022-05-11/16:45:55		Entered the get_data method of the Data_Getter class
+2022-05-11/16:45:55		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/16:45:55		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/16:45:56		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/16:45:56		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/16:45:56		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/16:45:56		Entered the load_model method of the File_Operation class
+2022-05-11/16:45:56		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/16:45:56		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/16:45:56		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/16:45:56		Entered the load_model method of the File_Operation class
+2022-05-11/16:45:56		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/16:45:56		End of Prediction
+2022-05-11/16:46:52		Start of Validation on files for prediction!!
+2022-05-11/16:46:54		Start of Prediction
+2022-05-11/16:46:54		Entered the get_data method of the Data_Getter class
+2022-05-11/16:46:54		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/16:46:54		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/16:46:54		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/16:46:54		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/16:46:54		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/16:46:54		Entered the load_model method of the File_Operation class
+2022-05-11/16:46:54		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/16:46:54		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/16:46:54		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/16:46:54		Entered the load_model method of the File_Operation class
+2022-05-11/16:46:54		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/16:46:54		End of Prediction
+2022-05-11/16:53:31		Start of Validation on files for prediction!!
+2022-05-11/16:53:36		Start of Prediction
+2022-05-11/16:53:36		Entered the get_data method of the Data_Getter class
+2022-05-11/16:53:36		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/16:53:36		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/16:53:36		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/16:53:36		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/16:53:36		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/16:53:36		Entered the load_model method of the File_Operation class
+2022-05-11/16:53:36		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/16:53:36		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/16:53:36		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/16:53:36		Entered the load_model method of the File_Operation class
+2022-05-11/16:53:36		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/16:53:36		End of Prediction
+2022-05-11/16:56:26		Start of Validation on files for prediction!!
+2022-05-11/16:56:31		Start of Prediction
+2022-05-11/16:56:31		Entered the get_data method of the Data_Getter class
+2022-05-11/16:56:31		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/16:56:31		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/16:56:31		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/16:56:31		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/16:56:31		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/16:56:31		Entered the load_model method of the File_Operation class
+2022-05-11/16:56:31		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/16:56:31		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/16:56:31		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/16:56:31		Entered the load_model method of the File_Operation class
+2022-05-11/16:56:31		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/16:56:31		End of Prediction
+2022-05-11/16:58:01		Start of Validation on files for prediction!!
+2022-05-11/16:58:05		Start of Prediction
+2022-05-11/16:58:05		Entered the get_data method of the Data_Getter class
+2022-05-11/16:58:05		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/16:58:05		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/16:58:05		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/16:58:05		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/16:58:05		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/16:58:05		Entered the load_model method of the File_Operation class
+2022-05-11/16:58:05		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/16:58:05		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/16:58:05		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/16:58:05		Entered the load_model method of the File_Operation class
+2022-05-11/16:58:05		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/16:58:05		End of Prediction
+2022-05-11/16:59:42		Start of Validation on files for prediction!!
+2022-05-11/16:59:48		Start of Prediction
+2022-05-11/16:59:48		Entered the get_data method of the Data_Getter class
+2022-05-11/16:59:48		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/16:59:48		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/16:59:48		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/16:59:48		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/16:59:48		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/16:59:48		Entered the load_model method of the File_Operation class
+2022-05-11/16:59:48		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/16:59:48		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/16:59:48		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/16:59:48		Entered the load_model method of the File_Operation class
+2022-05-11/16:59:48		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/16:59:48		End of Prediction
+2022-05-11/17:55:08		Start of Validation on files for prediction!!
+2022-05-11/17:55:10		Start of Prediction
+2022-05-11/17:55:10		Entered the get_data method of the Data_Getter class
+2022-05-11/17:55:10		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/17:55:10		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/17:55:10		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/17:55:10		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/17:55:10		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/17:55:10		Entered the load_model method of the File_Operation class
+2022-05-11/17:55:10		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/17:55:10		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/17:55:10		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/17:55:10		Entered the load_model method of the File_Operation class
+2022-05-11/17:55:10		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/17:55:10		End of Prediction
+2022-05-11/17:57:25		Start of Validation on files for prediction!!
+2022-05-11/17:57:27		Start of Prediction
+2022-05-11/17:57:27		Entered the get_data method of the Data_Getter class
+2022-05-11/17:57:27		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/17:57:27		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/17:57:27		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/17:57:27		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/17:57:27		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/17:57:27		Entered the load_model method of the File_Operation class
+2022-05-11/17:57:27		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/17:57:27		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/17:57:27		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/17:57:27		Entered the load_model method of the File_Operation class
+2022-05-11/17:57:27		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/17:57:27		End of Prediction
+2022-05-11/17:59:32		Start of Validation on files for prediction!!
+2022-05-11/17:59:39		Start of Prediction
+2022-05-11/17:59:39		Entered the get_data method of the Data_Getter class
+2022-05-11/17:59:39		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/17:59:39		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/17:59:39		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/17:59:39		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/17:59:39		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/17:59:39		Entered the load_model method of the File_Operation class
+2022-05-11/17:59:39		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/17:59:39		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/17:59:39		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/17:59:39		Entered the load_model method of the File_Operation class
+2022-05-11/17:59:39		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/17:59:39		End of Prediction
+2022-05-11/18:02:51		Start of Validation on files for prediction!!
+2022-05-11/18:02:53		Start of Prediction
+2022-05-11/18:02:53		Entered the get_data method of the Data_Getter class
+2022-05-11/18:02:53		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-11/18:02:53		Entered the Encoded categorical columns steps in preprocessing
+2022-05-11/18:02:53		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-11/18:02:53		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-11/18:02:53		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-11/18:02:53		Entered the load_model method of the File_Operation class
+2022-05-11/18:02:53		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/18:02:53		Entered the find_correct_model_file method of the File_Operation class
+2022-05-11/18:02:53		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-11/18:02:53		Entered the load_model method of the File_Operation class
+2022-05-11/18:02:53		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-11/18:02:53		End of Prediction
+2022-05-12/07:35:08		Start of Validation on files for prediction!!
+2022-05-12/07:35:37		Start of Prediction
+2022-05-12/07:35:37		Entered the get_data method of the Data_Getter class
+2022-05-12/07:35:37		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-12/07:35:37		Entered the Encoded categorical columns steps in preprocessing
+2022-05-12/07:35:40		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-12/07:35:40		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-12/07:35:41		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-12/07:35:41		Entered the load_model method of the File_Operation class
+2022-05-12/07:35:41		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/07:35:43		Entered the find_correct_model_file method of the File_Operation class
+2022-05-12/07:35:43		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-12/07:35:43		Entered the load_model method of the File_Operation class
+2022-05-12/07:35:43		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/07:35:52		End of Prediction
+2022-05-12/07:52:37		Start of Validation on files for prediction!!
+2022-05-12/07:52:44		Start of Prediction
+2022-05-12/07:52:44		Entered the get_data method of the Data_Getter class
+2022-05-12/07:52:44		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-12/07:52:44		Entered the Encoded categorical columns steps in preprocessing
+2022-05-12/07:52:44		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-12/07:52:44		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-12/07:52:45		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-12/07:52:45		Entered the load_model method of the File_Operation class
+2022-05-12/07:52:45		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/07:52:45		Entered the find_correct_model_file method of the File_Operation class
+2022-05-12/07:52:45		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-12/07:52:45		Entered the load_model method of the File_Operation class
+2022-05-12/07:52:45		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/07:52:47		End of Prediction
+2022-05-12/07:53:45		Start of Validation on files for prediction!!
+2022-05-12/07:53:50		Start of Prediction
+2022-05-12/07:53:50		Entered the get_data method of the Data_Getter class
+2022-05-12/07:53:50		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-12/07:53:50		Entered the Encoded categorical columns steps in preprocessing
+2022-05-12/07:53:50		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-12/07:53:50		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-12/07:53:50		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-12/07:53:50		Entered the load_model method of the File_Operation class
+2022-05-12/07:53:50		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/07:53:50		Entered the find_correct_model_file method of the File_Operation class
+2022-05-12/07:53:50		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-12/07:53:50		Entered the load_model method of the File_Operation class
+2022-05-12/07:53:50		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/07:53:50		End of Prediction
+2022-05-12/07:55:17		Start of Validation on files for prediction!!
+2022-05-12/07:55:21		Start of Prediction
+2022-05-12/07:55:21		Entered the get_data method of the Data_Getter class
+2022-05-12/07:55:21		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-12/07:55:21		Entered the Encoded categorical columns steps in preprocessing
+2022-05-12/07:55:21		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-12/07:55:21		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-12/07:55:21		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-12/07:55:21		Entered the load_model method of the File_Operation class
+2022-05-12/07:55:21		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/07:55:21		Entered the find_correct_model_file method of the File_Operation class
+2022-05-12/07:55:21		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-12/07:55:21		Entered the load_model method of the File_Operation class
+2022-05-12/07:55:21		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/07:55:21		End of Prediction
+2022-05-12/07:59:59		Start of Validation on files for prediction!!
+2022-05-12/08:00:05		Start of Prediction
+2022-05-12/08:00:05		Entered the get_data method of the Data_Getter class
+2022-05-12/08:00:05		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-12/08:00:05		Entered the Encoded categorical columns steps in preprocessing
+2022-05-12/08:00:05		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-12/08:00:05		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-12/08:00:05		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-12/08:00:05		Entered the load_model method of the File_Operation class
+2022-05-12/08:00:05		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/08:00:05		Entered the find_correct_model_file method of the File_Operation class
+2022-05-12/08:00:05		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-12/08:00:05		Entered the load_model method of the File_Operation class
+2022-05-12/08:00:05		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/08:00:06		End of Prediction
+2022-05-12/08:11:51		Start of Validation on files for prediction!!
+2022-05-12/08:11:58		Start of Prediction
+2022-05-12/08:11:58		Entered the get_data method of the Data_Getter class
+2022-05-12/08:11:58		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-12/08:11:58		Entered the Encoded categorical columns steps in preprocessing
+2022-05-12/08:11:58		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-12/08:11:58		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-12/08:11:58		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-12/08:11:58		Entered the load_model method of the File_Operation class
+2022-05-12/08:11:58		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/08:11:58		Entered the find_correct_model_file method of the File_Operation class
+2022-05-12/08:11:58		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-12/08:11:58		Entered the load_model method of the File_Operation class
+2022-05-12/08:11:58		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/08:11:59		End of Prediction
+2022-05-12/11:10:22		Start of Validation on files for prediction!!
+2022-05-12/11:10:31		Start of Prediction
+2022-05-12/11:10:31		Entered the get_data method of the Data_Getter class
+2022-05-12/11:10:31		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-12/11:10:31		Entered the Encoded categorical columns steps in preprocessing
+2022-05-12/11:10:31		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-12/11:10:31		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-12/11:10:31		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-12/11:10:31		Entered the load_model method of the File_Operation class
+2022-05-12/11:10:31		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/11:10:32		Entered the find_correct_model_file method of the File_Operation class
+2022-05-12/11:10:32		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-12/11:10:32		Entered the load_model method of the File_Operation class
+2022-05-12/11:10:32		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/11:10:32		End of Prediction
+2022-05-12/11:44:28		Start of Validation on files for prediction!!
+2022-05-12/11:44:48		Start of Prediction
+2022-05-12/11:44:48		Entered the get_data method of the Data_Getter class
+2022-05-12/11:44:49		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-12/11:44:49		Entered the Encoded categorical columns steps in preprocessing
+2022-05-12/11:44:53		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-12/11:44:53		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-12/11:44:55		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-12/11:44:55		Entered the load_model method of the File_Operation class
+2022-05-12/11:44:55		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/11:44:57		Entered the find_correct_model_file method of the File_Operation class
+2022-05-12/11:44:57		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-12/11:44:57		Entered the load_model method of the File_Operation class
+2022-05-12/11:44:57		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/11:45:02		End of Prediction
+2022-05-12/11:54:04		Start of Validation on files for prediction!!
+2022-05-12/11:54:09		Start of Prediction
+2022-05-12/11:54:09		Entered the get_data method of the Data_Getter class
+2022-05-12/11:54:09		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-12/11:54:09		Entered the Encoded categorical columns steps in preprocessing
+2022-05-12/11:54:09		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-12/11:54:09		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-12/11:54:09		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-12/11:54:09		Entered the load_model method of the File_Operation class
+2022-05-12/11:54:09		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/11:54:09		Entered the find_correct_model_file method of the File_Operation class
+2022-05-12/11:54:09		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-12/11:54:09		Entered the load_model method of the File_Operation class
+2022-05-12/11:54:09		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/11:54:09		End of Prediction
+2022-05-12/12:02:09		Start of Validation on files for prediction!!
+2022-05-12/12:02:13		Start of Prediction
+2022-05-12/12:02:13		Entered the get_data method of the Data_Getter class
+2022-05-12/12:02:13		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-12/12:02:13		Entered the Encoded categorical columns steps in preprocessing
+2022-05-12/12:02:13		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-12/12:02:13		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-12/12:02:13		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-12/12:02:13		Entered the load_model method of the File_Operation class
+2022-05-12/12:02:13		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/12:02:13		Entered the find_correct_model_file method of the File_Operation class
+2022-05-12/12:02:13		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-12/12:02:13		Entered the load_model method of the File_Operation class
+2022-05-12/12:02:13		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/12:02:13		End of Prediction
+2022-05-12/13:10:56		Start of Validation on files for prediction!!
+2022-05-12/13:11:00		Start of Prediction
+2022-05-12/13:11:00		Entered the get_data method of the Data_Getter class
+2022-05-12/13:11:00		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-12/13:11:00		Entered the Encoded categorical columns steps in preprocessing
+2022-05-12/13:11:01		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-12/13:11:01		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-12/13:11:01		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-12/13:11:01		Entered the load_model method of the File_Operation class
+2022-05-12/13:11:01		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/13:11:01		Entered the find_correct_model_file method of the File_Operation class
+2022-05-12/13:11:01		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-12/13:11:01		Entered the load_model method of the File_Operation class
+2022-05-12/13:11:01		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/13:11:01		End of Prediction
+2022-05-12/13:20:19		Start of Validation on files for prediction!!
+2022-05-12/13:20:24		Start of Prediction
+2022-05-12/13:20:24		Entered the get_data method of the Data_Getter class
+2022-05-12/13:20:24		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-12/13:20:24		Entered the Encoded categorical columns steps in preprocessing
+2022-05-12/13:20:24		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-12/13:20:24		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-12/13:20:24		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-12/13:20:24		Entered the load_model method of the File_Operation class
+2022-05-12/13:20:24		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/13:20:24		Entered the find_correct_model_file method of the File_Operation class
+2022-05-12/13:20:24		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-12/13:20:24		Entered the load_model method of the File_Operation class
+2022-05-12/13:20:24		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/13:20:24		End of Prediction
+2022-05-12/13:34:03		Start of Validation on files for prediction!!
+2022-05-12/13:34:09		Start of Prediction
+2022-05-12/13:34:09		Entered the get_data method of the Data_Getter class
+2022-05-12/13:34:09		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-12/13:34:09		Entered the Encoded categorical columns steps in preprocessing
+2022-05-12/13:34:09		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-12/13:34:09		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-12/13:34:09		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-12/13:34:09		Entered the load_model method of the File_Operation class
+2022-05-12/13:34:09		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/13:34:09		Entered the find_correct_model_file method of the File_Operation class
+2022-05-12/13:34:09		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-12/13:34:09		Entered the load_model method of the File_Operation class
+2022-05-12/13:34:09		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/13:34:09		End of Prediction
+2022-05-12/13:48:00		Start of Validation on files for prediction!!
+2022-05-12/13:48:08		Start of Prediction
+2022-05-12/13:48:08		Entered the get_data method of the Data_Getter class
+2022-05-12/13:48:08		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-12/13:48:08		Entered the Encoded categorical columns steps in preprocessing
+2022-05-12/13:48:09		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-12/13:48:09		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-12/13:48:09		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-12/13:48:09		Entered the load_model method of the File_Operation class
+2022-05-12/13:48:09		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/13:48:10		Entered the find_correct_model_file method of the File_Operation class
+2022-05-12/13:48:10		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-12/13:48:10		Entered the load_model method of the File_Operation class
+2022-05-12/13:48:10		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/13:48:11		End of Prediction
+2022-05-12/13:50:04		Start of Validation on files for prediction!!
+2022-05-12/13:50:09		Start of Prediction
+2022-05-12/13:50:09		Entered the get_data method of the Data_Getter class
+2022-05-12/13:50:09		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-12/13:50:09		Entered the Encoded categorical columns steps in preprocessing
+2022-05-12/13:50:09		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-12/13:50:09		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-12/13:50:09		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-12/13:50:09		Entered the load_model method of the File_Operation class
+2022-05-12/13:50:09		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/13:50:09		Entered the find_correct_model_file method of the File_Operation class
+2022-05-12/13:50:09		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-12/13:50:09		Entered the load_model method of the File_Operation class
+2022-05-12/13:50:09		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/13:50:09		End of Prediction
+2022-05-12/13:50:34		Start of Validation on files for prediction!!
+2022-05-12/13:50:37		Start of Prediction
+2022-05-12/13:50:37		Entered the get_data method of the Data_Getter class
+2022-05-12/13:50:37		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-12/13:50:37		Entered the Encoded categorical columns steps in preprocessing
+2022-05-12/13:50:37		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-12/13:50:37		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-12/13:50:37		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-12/13:50:37		Entered the load_model method of the File_Operation class
+2022-05-12/13:50:37		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/13:50:37		Entered the find_correct_model_file method of the File_Operation class
+2022-05-12/13:50:37		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-12/13:50:37		Entered the load_model method of the File_Operation class
+2022-05-12/13:50:37		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/13:50:37		End of Prediction
+2022-05-12/13:56:28		Start of Validation on files for prediction!!
+2022-05-12/13:56:34		Start of Prediction
+2022-05-12/13:56:34		Entered the get_data method of the Data_Getter class
+2022-05-12/13:56:34		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-12/13:56:34		Entered the Encoded categorical columns steps in preprocessing
+2022-05-12/13:56:34		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-12/13:56:34		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-12/13:56:34		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-12/13:56:34		Entered the load_model method of the File_Operation class
+2022-05-12/13:56:34		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/13:56:34		Entered the find_correct_model_file method of the File_Operation class
+2022-05-12/13:56:34		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-12/13:56:34		Entered the load_model method of the File_Operation class
+2022-05-12/13:56:34		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/13:56:34		End of Prediction
+2022-05-12/13:57:51		Start of Validation on files for prediction!!
+2022-05-12/13:57:54		Start of Prediction
+2022-05-12/13:57:54		Entered the get_data method of the Data_Getter class
+2022-05-12/13:57:54		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-12/13:57:54		Entered the Encoded categorical columns steps in preprocessing
+2022-05-12/13:57:54		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-12/13:57:54		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-12/13:57:54		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-12/13:57:54		Entered the load_model method of the File_Operation class
+2022-05-12/13:57:54		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/13:57:54		Entered the find_correct_model_file method of the File_Operation class
+2022-05-12/13:57:54		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-12/13:57:54		Entered the load_model method of the File_Operation class
+2022-05-12/13:57:54		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/13:57:54		End of Prediction
+2022-05-12/14:29:47		Start of Validation on files for prediction!!
+2022-05-12/14:29:49		Start of Prediction
+2022-05-12/14:29:49		Entered the get_data method of the Data_Getter class
+2022-05-12/14:29:49		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-12/14:29:49		Entered the Encoded categorical columns steps in preprocessing
+2022-05-12/14:29:50		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-12/14:29:50		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-12/14:29:50		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-12/14:29:50		Entered the load_model method of the File_Operation class
+2022-05-12/14:29:50		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/14:29:50		Entered the find_correct_model_file method of the File_Operation class
+2022-05-12/14:29:50		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-12/14:29:50		Entered the load_model method of the File_Operation class
+2022-05-12/14:29:50		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/14:29:50		End of Prediction
+2022-05-12/14:35:29		Start of Validation on files for prediction!!
+2022-05-12/14:35:33		Start of Prediction
+2022-05-12/14:35:33		Entered the get_data method of the Data_Getter class
+2022-05-12/14:35:33		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-12/14:35:33		Entered the Encoded categorical columns steps in preprocessing
+2022-05-12/14:35:33		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-12/14:35:33		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-12/14:35:33		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-12/14:35:33		Entered the load_model method of the File_Operation class
+2022-05-12/14:35:33		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/14:35:33		Entered the find_correct_model_file method of the File_Operation class
+2022-05-12/14:35:33		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-12/14:35:33		Entered the load_model method of the File_Operation class
+2022-05-12/14:35:33		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/14:35:33		End of Prediction
+2022-05-12/14:37:04		Start of Validation on files for prediction!!
+2022-05-12/14:37:07		Start of Prediction
+2022-05-12/14:37:07		Entered the get_data method of the Data_Getter class
+2022-05-12/14:37:07		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-12/14:37:07		Entered the Encoded categorical columns steps in preprocessing
+2022-05-12/14:37:07		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-12/14:37:07		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-12/14:37:07		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-12/14:37:07		Entered the load_model method of the File_Operation class
+2022-05-12/14:37:07		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/14:37:07		Entered the find_correct_model_file method of the File_Operation class
+2022-05-12/14:37:07		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-12/14:37:07		Entered the load_model method of the File_Operation class
+2022-05-12/14:37:07		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/14:37:07		End of Prediction
+2022-05-12/14:37:57		Start of Validation on files for prediction!!
+2022-05-12/14:38:01		Start of Prediction
+2022-05-12/14:38:01		Entered the get_data method of the Data_Getter class
+2022-05-12/14:38:01		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-12/14:38:01		Entered the Encoded categorical columns steps in preprocessing
+2022-05-12/14:38:01		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-12/14:38:01		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-12/14:38:01		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-12/14:38:01		Entered the load_model method of the File_Operation class
+2022-05-12/14:38:01		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/14:38:01		Entered the find_correct_model_file method of the File_Operation class
+2022-05-12/14:38:01		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-12/14:38:01		Entered the load_model method of the File_Operation class
+2022-05-12/14:38:01		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/14:38:01		End of Prediction
+2022-05-12/14:55:42		Start of Validation on files for prediction!!
+2022-05-12/14:55:47		Start of Prediction
+2022-05-12/14:55:47		Entered the get_data method of the Data_Getter class
+2022-05-12/14:55:47		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-12/14:55:47		Entered the Encoded categorical columns steps in preprocessing
+2022-05-12/14:55:47		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-12/14:55:47		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-12/14:55:47		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-12/14:55:47		Entered the load_model method of the File_Operation class
+2022-05-12/14:55:47		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/14:55:48		Entered the find_correct_model_file method of the File_Operation class
+2022-05-12/14:55:48		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-12/14:55:48		Entered the load_model method of the File_Operation class
+2022-05-12/14:55:48		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/14:55:48		End of Prediction
+2022-05-12/15:12:31		Start of Validation on files for prediction!!
+2022-05-12/15:12:34		Start of Prediction
+2022-05-12/15:12:34		Entered the get_data method of the Data_Getter class
+2022-05-12/15:12:34		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-12/15:12:34		Entered the Encoded categorical columns steps in preprocessing
+2022-05-12/15:12:34		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-12/15:12:34		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-12/15:12:34		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-12/15:12:34		Entered the load_model method of the File_Operation class
+2022-05-12/15:12:34		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/15:12:34		Entered the find_correct_model_file method of the File_Operation class
+2022-05-12/15:12:34		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-12/15:12:34		Entered the load_model method of the File_Operation class
+2022-05-12/15:12:34		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/15:12:34		End of Prediction
+2022-05-12/15:21:19		Start of Validation on files for prediction!!
+2022-05-12/15:21:21		Start of Prediction
+2022-05-12/15:21:21		Entered the get_data method of the Data_Getter class
+2022-05-12/15:21:21		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-12/15:21:21		Entered the Encoded categorical columns steps in preprocessing
+2022-05-12/15:21:21		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-12/15:21:21		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-12/15:21:21		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-12/15:21:21		Entered the load_model method of the File_Operation class
+2022-05-12/15:21:21		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/15:21:21		Entered the find_correct_model_file method of the File_Operation class
+2022-05-12/15:21:21		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-12/15:21:21		Entered the load_model method of the File_Operation class
+2022-05-12/15:21:21		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/15:21:21		End of Prediction
+2022-05-12/15:21:49		Start of Validation on files for prediction!!
+2022-05-12/15:21:51		Start of Prediction
+2022-05-12/15:21:51		Entered the get_data method of the Data_Getter class
+2022-05-12/15:21:51		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-12/15:21:51		Entered the Encoded categorical columns steps in preprocessing
+2022-05-12/15:21:51		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-12/15:21:51		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-12/15:21:51		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-12/15:21:51		Entered the load_model method of the File_Operation class
+2022-05-12/15:21:51		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/15:21:51		Entered the find_correct_model_file method of the File_Operation class
+2022-05-12/15:21:51		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-12/15:21:51		Entered the load_model method of the File_Operation class
+2022-05-12/15:21:51		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/15:21:51		End of Prediction
+2022-05-12/15:29:35		Start of Validation on files for prediction!!
+2022-05-12/15:29:37		Start of Prediction
+2022-05-12/15:29:37		Entered the get_data method of the Data_Getter class
+2022-05-12/15:29:37		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-12/15:29:37		Entered the Encoded categorical columns steps in preprocessing
+2022-05-12/15:29:37		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-12/15:29:37		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-12/15:29:37		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-12/15:29:37		Entered the load_model method of the File_Operation class
+2022-05-12/15:29:37		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/15:29:37		Entered the find_correct_model_file method of the File_Operation class
+2022-05-12/15:29:37		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-12/15:29:37		Entered the load_model method of the File_Operation class
+2022-05-12/15:29:37		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/15:29:37		End of Prediction
+2022-05-12/15:33:31		Start of Validation on files for prediction!!
+2022-05-12/15:33:33		Start of Prediction
+2022-05-12/15:33:33		Entered the get_data method of the Data_Getter class
+2022-05-12/15:33:33		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-12/15:33:33		Entered the Encoded categorical columns steps in preprocessing
+2022-05-12/15:33:33		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-12/15:33:33		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-12/15:33:33		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-12/15:33:33		Entered the load_model method of the File_Operation class
+2022-05-12/15:33:33		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/15:33:33		Entered the find_correct_model_file method of the File_Operation class
+2022-05-12/15:33:33		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-12/15:33:33		Entered the load_model method of the File_Operation class
+2022-05-12/15:33:33		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/15:33:33		End of Prediction
+2022-05-12/16:08:37		Start of Validation on files for prediction!!
+2022-05-12/16:08:39		Start of Prediction
+2022-05-12/16:08:39		Entered the get_data method of the Data_Getter class
+2022-05-12/16:08:39		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-12/16:08:39		Entered the Encoded categorical columns steps in preprocessing
+2022-05-12/16:08:39		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-12/16:08:39		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-12/16:08:39		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-12/16:08:39		Entered the load_model method of the File_Operation class
+2022-05-12/16:08:39		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/16:08:39		Entered the find_correct_model_file method of the File_Operation class
+2022-05-12/16:08:39		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-12/16:08:39		Entered the load_model method of the File_Operation class
+2022-05-12/16:08:39		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-12/16:08:39		End of Prediction
+2022-05-13/09:12:13		Start of Validation on files for prediction!!
+2022-05-13/09:15:38		Start of Validation on files for prediction!!
+2022-05-13/09:16:31		Start of Validation on files for prediction!!
+2022-05-13/09:17:08		Start of Validation on files for prediction!!
+2022-05-13/09:21:28		Start of Validation on files for prediction!!
+2022-05-13/09:24:56		Start of Validation on files for prediction!!
+2022-05-13/09:25:18		Start of Validation on files for prediction!!
+2022-05-13/09:25:21		Start of Validation on files for prediction!!
+2022-05-13/09:25:25		Start of Prediction
+2022-05-13/09:25:25		Entered the get_data method of the Data_Getter class
+2022-05-13/09:25:25		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-13/09:25:25		Entered the Encoded categorical columns steps in preprocessing
+2022-05-13/09:25:26		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-13/09:25:26		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-13/09:25:26		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-13/09:25:26		Entered the load_model method of the File_Operation class
+2022-05-13/09:25:26		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-13/09:25:26		Entered the find_correct_model_file method of the File_Operation class
+2022-05-13/09:25:26		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-13/09:25:26		Entered the load_model method of the File_Operation class
+2022-05-13/09:25:26		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-13/09:25:26		End of Prediction
+2022-05-13/09:33:32		Start of Validation on files for prediction!!
+2022-05-13/09:33:55		Start of Validation on files for prediction!!
+2022-05-13/09:34:28		Start of Validation on files for prediction!!
+2022-05-13/09:36:15		Start of Validation on files for prediction!!
+2022-05-13/09:36:26		Start of Prediction
+2022-05-13/09:36:26		Entered the get_data method of the Data_Getter class
+2022-05-13/09:36:26		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-13/09:36:26		Entered the Encoded categorical columns steps in preprocessing
+2022-05-13/09:36:26		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-13/09:36:26		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-13/09:36:26		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-13/09:36:26		Entered the load_model method of the File_Operation class
+2022-05-13/09:36:26		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-13/09:36:27		Entered the find_correct_model_file method of the File_Operation class
+2022-05-13/09:36:27		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-13/09:36:27		Entered the load_model method of the File_Operation class
+2022-05-13/09:36:27		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-13/09:36:27		End of Prediction
+2022-05-13/13:10:02		Start of Validation on files for prediction!!
+2022-05-13/13:13:34		Start of Validation on files for prediction!!
+2022-05-13/13:16:37		Start of Validation on files for prediction!!
+2022-05-14/08:49:03		Start of Validation on files for prediction!!
+2022-05-14/08:49:05		Start of Validation on files for prediction!!
+2022-05-14/08:49:07		Start of Prediction
+2022-05-14/08:49:07		Entered the get_data method of the Data_Getter class
+2022-05-14/08:49:07		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-14/08:49:07		Entered the Encoded categorical columns steps in preprocessing
+2022-05-14/08:49:07		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-14/08:49:07		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-14/08:49:07		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-14/08:49:07		Entered the load_model method of the File_Operation class
+2022-05-14/08:49:07		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-14/08:49:07		Entered the find_correct_model_file method of the File_Operation class
+2022-05-14/08:49:07		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-14/08:49:07		Entered the load_model method of the File_Operation class
+2022-05-14/08:49:07		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-14/08:49:08		End of Prediction
+2022-05-14/09:08:38		Start of Validation on files for prediction!!
+2022-05-14/09:08:47		Start of Validation on files for prediction!!
+2022-05-14/09:08:49		Start of Validation on files for prediction!!
+2022-05-14/09:09:54		Start of Validation on files for prediction!!
+2022-05-14/09:10:38		Start of Validation on files for prediction!!
+2022-05-14/10:13:23		Start of Validation on files for prediction!!
+2022-05-14/10:14:02		Start of Validation on files for prediction!!
+2022-05-14/10:29:30		Start of Validation on files for prediction!!
+2022-05-14/10:31:48		Start of Validation on files for prediction!!
+2022-05-14/10:34:52		Start of Validation on files for prediction!!
+2022-05-14/10:56:46		Start of Validation on files for prediction!!
+2022-05-14/17:04:04		Start of Validation on files for prediction!!
+2022-05-14/17:08:19		Start of Validation on files for prediction!!
+2022-05-14/17:12:02		Start of Validation on files for prediction!!
+2022-05-14/17:12:26		Start of Validation on files for prediction!!
+2022-05-14/17:17:45		Start of Validation on files for prediction!!
+2022-05-14/17:18:06		Start of Validation on files for prediction!!
+2022-05-15/08:07:59		Start of Validation on files for prediction!!
+2022-05-15/08:08:03		Start of Prediction
+2022-05-15/08:08:03		Entered the get_data method of the Data_Getter class
+2022-05-15/08:08:03		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-15/08:08:03		Entered the Encoded categorical columns steps in preprocessing
+2022-05-15/08:08:03		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-15/08:08:03		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-15/08:08:03		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-15/08:08:03		Entered the load_model method of the File_Operation class
+2022-05-15/08:08:03		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-15/08:08:03		Entered the find_correct_model_file method of the File_Operation class
+2022-05-15/08:08:03		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-15/08:08:03		Entered the load_model method of the File_Operation class
+2022-05-15/08:08:03		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-15/08:08:03		End of Prediction
+2022-05-15/08:19:50		Start of Validation on files for prediction!!
+2022-05-15/08:19:54		Start of Prediction
+2022-05-15/08:19:54		Entered the get_data method of the Data_Getter class
+2022-05-15/08:19:54		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-15/08:19:54		Entered the Encoded categorical columns steps in preprocessing
+2022-05-15/08:19:54		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-15/08:19:54		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-15/08:19:54		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-15/08:19:54		Entered the load_model method of the File_Operation class
+2022-05-15/08:19:54		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-15/08:19:54		Entered the find_correct_model_file method of the File_Operation class
+2022-05-15/08:19:54		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-15/08:19:54		Entered the load_model method of the File_Operation class
+2022-05-15/08:19:54		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-15/08:19:54		End of Prediction
+2022-05-15/08:21:37		Start of Validation on files for prediction!!
+2022-05-15/08:21:41		Start of Prediction
+2022-05-15/08:21:41		Entered the get_data method of the Data_Getter class
+2022-05-15/08:21:41		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-15/08:21:41		Entered the Encoded categorical columns steps in preprocessing
+2022-05-15/08:21:41		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-15/08:21:41		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-15/08:21:41		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-15/08:21:41		Entered the load_model method of the File_Operation class
+2022-05-15/08:21:41		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-15/08:21:41		Entered the find_correct_model_file method of the File_Operation class
+2022-05-15/08:21:41		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-15/08:21:41		Entered the load_model method of the File_Operation class
+2022-05-15/08:21:41		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-15/08:21:41		End of Prediction
+2022-05-15/08:22:06		Start of Validation on files for prediction!!
+2022-05-15/08:22:14		Start of Prediction
+2022-05-15/08:22:14		Entered the get_data method of the Data_Getter class
+2022-05-15/08:22:14		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-15/08:22:14		Entered the Encoded categorical columns steps in preprocessing
+2022-05-15/08:22:14		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-15/08:22:14		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-15/08:22:14		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-15/08:22:14		Entered the load_model method of the File_Operation class
+2022-05-15/08:22:14		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-15/08:22:14		Entered the find_correct_model_file method of the File_Operation class
+2022-05-15/08:22:14		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-15/08:22:14		Entered the load_model method of the File_Operation class
+2022-05-15/08:22:14		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-15/08:22:14		End of Prediction
+2022-05-15/08:22:54		Start of Validation on files for prediction!!
+2022-05-15/08:22:58		Start of Prediction
+2022-05-15/08:22:58		Entered the get_data method of the Data_Getter class
+2022-05-15/08:22:58		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-15/08:22:58		Entered the Encoded categorical columns steps in preprocessing
+2022-05-15/08:22:58		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-15/08:22:58		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-15/08:22:58		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-15/08:22:58		Entered the load_model method of the File_Operation class
+2022-05-15/08:22:58		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-15/08:22:58		Entered the find_correct_model_file method of the File_Operation class
+2022-05-15/08:22:58		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-15/08:22:58		Entered the load_model method of the File_Operation class
+2022-05-15/08:22:58		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-15/08:22:58		End of Prediction
+2022-05-15/08:29:31		Start of Validation on files for prediction!!
+2022-05-15/08:29:38		Start of Prediction
+2022-05-15/08:29:38		Entered the get_data method of the Data_Getter class
+2022-05-15/08:29:38		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-15/08:29:38		Entered the Encoded categorical columns steps in preprocessing
+2022-05-15/08:29:38		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-15/08:29:38		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-15/08:29:38		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-15/08:29:38		Entered the load_model method of the File_Operation class
+2022-05-15/08:29:38		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-15/08:29:38		Entered the find_correct_model_file method of the File_Operation class
+2022-05-15/08:29:38		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-15/08:29:38		Entered the load_model method of the File_Operation class
+2022-05-15/08:29:38		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-15/08:29:38		End of Prediction
+2022-05-15/08:33:36		Start of Validation on files for prediction!!
+2022-05-15/08:33:39		Start of Prediction
+2022-05-15/08:33:39		Entered the get_data method of the Data_Getter class
+2022-05-15/08:33:39		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-15/08:33:39		Entered the Encoded categorical columns steps in preprocessing
+2022-05-15/08:33:39		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-15/08:33:39		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-15/08:33:39		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-15/08:33:39		Entered the load_model method of the File_Operation class
+2022-05-15/08:33:39		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-15/08:33:39		Entered the find_correct_model_file method of the File_Operation class
+2022-05-15/08:33:39		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-15/08:33:39		Entered the load_model method of the File_Operation class
+2022-05-15/08:33:39		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-15/08:33:39		End of Prediction
+2022-05-15/08:34:33		Start of Validation on files for prediction!!
+2022-05-15/08:34:36		Start of Prediction
+2022-05-15/08:34:36		Entered the get_data method of the Data_Getter class
+2022-05-15/08:34:36		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-15/08:34:36		Entered the Encoded categorical columns steps in preprocessing
+2022-05-15/08:34:36		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-15/08:34:36		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-15/08:34:36		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-15/08:34:36		Entered the load_model method of the File_Operation class
+2022-05-15/08:34:36		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-15/08:34:36		Entered the find_correct_model_file method of the File_Operation class
+2022-05-15/08:34:36		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-15/08:34:36		Entered the load_model method of the File_Operation class
+2022-05-15/08:34:36		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-15/08:34:36		End of Prediction
+2022-05-15/08:34:47		Start of Validation on files for prediction!!
+2022-05-15/08:34:51		Start of Prediction
+2022-05-15/08:34:51		Entered the get_data method of the Data_Getter class
+2022-05-15/08:34:51		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-15/08:34:51		Entered the Encoded categorical columns steps in preprocessing
+2022-05-15/08:34:51		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-15/08:34:51		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-15/08:34:51		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-15/08:34:51		Entered the load_model method of the File_Operation class
+2022-05-15/08:34:51		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-15/08:34:51		Entered the find_correct_model_file method of the File_Operation class
+2022-05-15/08:34:51		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-15/08:34:51		Entered the load_model method of the File_Operation class
+2022-05-15/08:34:51		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-15/08:34:51		End of Prediction
+2022-05-15/08:35:14		Start of Validation on files for prediction!!
+2022-05-15/08:35:19		Start of Prediction
+2022-05-15/08:35:19		Entered the get_data method of the Data_Getter class
+2022-05-15/08:35:19		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-15/08:35:19		Entered the Encoded categorical columns steps in preprocessing
+2022-05-15/08:35:19		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-15/08:35:19		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-15/08:35:19		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-15/08:35:19		Entered the load_model method of the File_Operation class
+2022-05-15/08:35:19		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-15/08:35:19		Entered the find_correct_model_file method of the File_Operation class
+2022-05-15/08:35:19		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-15/08:35:19		Entered the load_model method of the File_Operation class
+2022-05-15/08:35:19		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-15/08:35:19		End of Prediction
+2022-05-15/08:36:14		Start of Validation on files for prediction!!
+2022-05-15/08:36:18		Start of Prediction
+2022-05-15/08:36:18		Entered the get_data method of the Data_Getter class
+2022-05-15/08:36:18		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-15/08:36:18		Entered the Encoded categorical columns steps in preprocessing
+2022-05-15/08:36:18		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-15/08:36:18		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-15/08:36:18		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-15/08:36:18		Entered the load_model method of the File_Operation class
+2022-05-15/08:36:18		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-15/08:36:18		Entered the find_correct_model_file method of the File_Operation class
+2022-05-15/08:36:18		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-15/08:36:18		Entered the load_model method of the File_Operation class
+2022-05-15/08:36:18		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-15/08:36:18		End of Prediction
+2022-05-15/08:39:13		Start of Validation on files for prediction!!
+2022-05-15/08:39:16		Start of Prediction
+2022-05-15/08:39:16		Entered the get_data method of the Data_Getter class
+2022-05-15/08:39:16		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-15/08:39:16		Entered the Encoded categorical columns steps in preprocessing
+2022-05-15/08:39:16		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-15/08:39:16		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-15/08:39:16		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-15/08:39:16		Entered the load_model method of the File_Operation class
+2022-05-15/08:39:16		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-15/08:39:16		Entered the find_correct_model_file method of the File_Operation class
+2022-05-15/08:39:16		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-15/08:39:16		Entered the load_model method of the File_Operation class
+2022-05-15/08:39:16		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-15/08:39:16		End of Prediction
+2022-05-15/08:40:53		Start of Validation on files for prediction!!
+2022-05-15/08:41:00		Start of Prediction
+2022-05-15/08:41:00		Entered the get_data method of the Data_Getter class
+2022-05-15/08:41:00		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-15/08:41:00		Entered the Encoded categorical columns steps in preprocessing
+2022-05-15/08:41:00		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-15/08:41:00		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-15/08:41:00		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-15/08:41:00		Entered the load_model method of the File_Operation class
+2022-05-15/08:41:00		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-15/08:41:00		Entered the find_correct_model_file method of the File_Operation class
+2022-05-15/08:41:00		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-15/08:41:00		Entered the load_model method of the File_Operation class
+2022-05-15/08:41:00		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-15/08:41:00		End of Prediction
+2022-05-15/08:41:58		Start of Validation on files for prediction!!
+2022-05-15/08:42:03		Start of Prediction
+2022-05-15/08:42:03		Entered the get_data method of the Data_Getter class
+2022-05-15/08:42:03		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-15/08:42:03		Entered the Encoded categorical columns steps in preprocessing
+2022-05-15/08:42:03		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-15/08:42:03		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-15/08:42:03		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-15/08:42:03		Entered the load_model method of the File_Operation class
+2022-05-15/08:42:03		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-15/08:42:03		Entered the find_correct_model_file method of the File_Operation class
+2022-05-15/08:42:03		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-15/08:42:03		Entered the load_model method of the File_Operation class
+2022-05-15/08:42:03		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-15/08:42:03		End of Prediction
+2022-05-15/08:45:17		Start of Validation on files for prediction!!
+2022-05-15/08:45:23		Start of Prediction
+2022-05-15/08:45:23		Entered the get_data method of the Data_Getter class
+2022-05-15/08:45:23		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-05-15/08:45:23		Entered the Encoded categorical columns steps in preprocessing
+2022-05-15/08:45:23		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-05-15/08:45:23		Entered the scale_numerical_columns method of the Preprocessor class
+2022-05-15/08:45:23		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-05-15/08:45:23		Entered the load_model method of the File_Operation class
+2022-05-15/08:45:23		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-05-15/08:45:23		Entered the find_correct_model_file method of the File_Operation class
+2022-05-15/08:45:23		Exited the find_correct_model_file method of the Model_Finder class.
+2022-05-15/08:45:23		Entered the load_model method of the File_Operation class
+2022-05-15/08:45:23		Model File Random forest0 loaded. Exited the load_model method of the Model_Finder class
+2022-05-15/08:45:23		End of Prediction
